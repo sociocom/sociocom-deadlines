@@ -1,13 +1,14 @@
-title: AI Conference Deadlines
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: Social Computing Conference Deadlines
+description: Countdowns to top Social Computing conference deadlines
+author: Social Computing Lab. at NAIST, Japan
 
-domain: "aideadlin.es"
-baseurl: ""
+domain: "sociocom.github.io"
+url: "https://my-site.github.io"
+baseurl: "/sociocom-deadlines/"
 
 twitter_hashtag: machinelearning
-github_username: paperswithcode
-github_repo: ai-deadlines
+github_username: sociocom
+github_repo: sociocom-deadlines
 
 markdown: kramdown
 ga_id:
