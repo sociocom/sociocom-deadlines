@@ -316,7 +316,7 @@
           }
         }
         store.set('{{ site.domain }}', subs);
-        window.history.pushState('', '', '/?sub=' + subs.join());
+        window.history.pushState('', '', '{{ site.baseurl }}?sub=' + subs.join());
 
         // Event handler on checkbox change
         $('form :checkbox').change(function(e) {
@@ -340,7 +340,7 @@
           }
           console.log(subs);
           store.set('{{ site.domain }}', subs);
-          window.history.pushState('', '', '/?sub=' + subs.join());
+          window.history.pushState('', '', '{{ site.baseurl }}?sub=' + subs.join());
         });
 
         // Event handler on sub click
@@ -357,7 +357,7 @@
           subs = [csub];
           console.log(subs);
           store.set('{{ site.domain }}', subs);
-          window.history.pushState('', '', '/?sub=' + subs.join());
+          window.history.pushState('', '', '{{ site.baseurl }}?sub=' + subs.join());
         });
     });
     <!-- Google analytics -->
