@@ -15,3 +15,11 @@
   sub: SOC
 - name: Speech Processing
   sub: SP
+- name: Artificial Interlligence
+  sub: AI
+- name: Library and Information Science
+  sub: LIS
+- name: User Interface
+  sub: UI
+- name: Geographic Information
+  sub: GEO
