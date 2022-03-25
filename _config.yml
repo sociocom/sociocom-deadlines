@@ -3,8 +3,8 @@ description: Countdowns to top Social Computing conference deadlines
 author: Social Computing Lab. at NAIST, Japan
 
 domain: "sociocom.github.io"
-url: "https://my-site.github.io"
-baseurl: "/sociocom-deadlines/"
+url: "https://sociocom.github.io"
+baseurl: "/sociocom-deadlines"
 
 twitter_hashtag: machinelearning
 github_username: sociocom
@@ -13,4 +13,4 @@ github_repo: sociocom-deadlines
 markdown: kramdown
 ga_id:
 
-include: ['_pages']
+include: ["_pages"]
