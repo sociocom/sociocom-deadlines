@@ -1,15 +1,17 @@
 ---
-- name: Machine Learning
-  sub: ML
-- name: Computer Vision
-  sub: CV
-- name: Computer Graphics
-  sub: CG
 - name: Natural Language Proc
   sub: NLP
-- name: Robotics
-  sub: RO
-- name: Speech/SigProc
-  sub: SP
 - name: Data Mining
   sub: DM
+- name: Database
+  sub: DB
+- name: Medical Informatics
+  sub: MED
+- name: Information Science
+  sub: IS
+- name: Web and Social Media
+  sub: WEB
+- name: Computational Sociology
+  sub: SOC
+- name: Speech Processing
+  sub: SP
