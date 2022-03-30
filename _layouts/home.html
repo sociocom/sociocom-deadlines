@@ -92,6 +92,9 @@
             <div class="row">
               <div class="col-12 col-sm-6">
                 <div class="meta">
+                  <span>{{conf.long}}</span>
+                </div>
+                <div class="meta">
                   <span class="conf-date">{{conf.date}}.</span>
                   <span class="conf-place">
                     {% if conf.place == "Online" %}
@@ -113,6 +116,11 @@
                   <div>Deadline:
                     <span class="deadline-time"></span>
                   </div>
+                  {% if conf.abstract_deadline %}
+                    <div>Abstract Deadline:
+                      <span class="deadline-time-abst"></span>
+                    </div>
+                  {% endif %}
                 </div>
                 <div class="calendar"></div>
               </div>
@@ -173,6 +181,9 @@
           // adjust date according to deadline timezone
           var timezone = {% if conf.timezone %}"{{conf.timezone}}" {% else %} "America/New_York" {% endif %};
           var confDate = moment.tz("{{conf.deadline}}", timezone);
+          {% if conf.abstract_deadline %}
+            var confDateAbst = moment.tz("{{conf.abstract_deadline}}", timezone);
+          {% endif %}
 
           // render countdown timer
           $('#{{conf.id}} .timer').countdown(confDate.toDate(), function (event) {
@@ -188,6 +199,10 @@
           try {
             var localConfDate = moment.tz(confDate, local_timezone);
             $('#{{conf.id}} .deadline-time').html(localConfDate.toString());
+            {% if conf.abstract_deadline %}
+              var localConfDateAbst = moment.tz(confDateAbst, local_timezone);
+              $('#{{conf.id}} .deadline-time-abst').html(localConfDateAbst.toString());
+            {% endif %}
           }
           catch(err) {
             console.log("Error converting to local timezone.");
