@@ -136,6 +136,9 @@
           </div>
           {% endfor %}
         </div>
+        <div id="tba_confs">
+          <!-- <h1 id="tba-events-title">Events To Be Announced</h1> -->
+        </div>
         <div id="past_confs">
           <h1 id="past-events-title">Past Events</h1>
           <div id="sort-order-checkbox">
@@ -233,12 +236,12 @@
         {% endif %}
         {% endfor %}
 
+        // Separate TBA confs from coming_confs
+        $("#coming_confs .ConfItem").filter(".tba").appendTo($("#tba_confs"));
         // Sort coming_confs and past_confs
         $("#coming_confs .ConfItem").sort(function (a, b) {
           return $(b).attr('diff') - $(a).attr('diff');
         }).appendTo($("#coming_confs"));
-        // Put TBA confs at the bottom of coming_confs
-        $("#coming_confs .ConfItem").filter(".tba").appendTo($("#coming_confs"));
 
         $("#sort-order-checkbox input").on("click", function() {
           if ($("#sort-order-checkbox input").is(":checked")) {
