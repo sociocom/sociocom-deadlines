@@ -177,6 +177,7 @@
         {% if conf.deadline == "TBA" %}
           $('#{{conf.id}} .timer').html("TBA");
           $('#{{conf.id}} .deadline-time').html("TBA");
+          $('#{{conf.id}}').addClass('tba');
         {% else %}
           // adjust date according to deadline timezone
           var timezone = {% if conf.timezone %}"{{conf.timezone}}" {% else %} "America/New_York" {% endif %};
@@ -236,6 +237,8 @@
         $("#coming_confs .ConfItem").sort(function (a, b) {
           return $(b).attr('diff') - $(a).attr('diff');
         }).appendTo($("#coming_confs"));
+        // Put TBA confs at the bottom of coming_confs
+        $("#coming_confs .ConfItem").filter(".tba").appendTo($("#coming_confs"));
 
         $("#sort-order-checkbox input").on("click", function() {
           if ($("#sort-order-checkbox input").is(":checked")) {

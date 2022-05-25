@@ -99,7 +99,7 @@
   place: Online
   sub: IS
   abstract_deadline: "2022-06-10 23:59:59"
-  note: 
+  note:
   hindex:
   long: 情報処理学会 関西支部会
   paperslink:
@@ -393,8 +393,8 @@
   year: 2022
   id: facct22
   link: https://facctconference.org/2022/
-  deadline: '2022-01-14 23:59:00'
-  abstract_deadline: '2021-12-15 23:59:00'
+  deadline: "2022-01-14 23:59:00"
+  abstract_deadline: "2021-12-15 23:59:00"
   timezone: UTC-12
   place: Seoul, South Korea
   date: June 21-24, 2022
@@ -426,9 +426,9 @@
   sub: NLP
   abstract_deadline:
   note:
-  hindex: -1
+  hindex:
   long:
-  paperslink: https://aclanthology.org/events/aacl-2020/
+  paperslink: https://aclanthology.org/events/aacl-2022/
   pwclink: https://paperswithcode.com/conference/asian-chapter-of-the-association-for
 - title: COLING
   year: 2022
