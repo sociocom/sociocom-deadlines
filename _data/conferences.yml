@@ -75,33 +75,33 @@
   paperslink:
   pwclink:
 - title: IPSJ
-  year: 2022
-  id: ipsj22
-  deadline: "2021-01-07 15:00:00"
+  year: 2023
+  id: ipsj23
+  deadline: TBA
   timezone: Asia/Tokyo
-  date: March 3-5, 2022
-  link: https://www.ipsj.or.jp/event/taikai/84/index.html
-  place: Ehime, Japan
+  date: 2023年3月2日（木）～4日（土）
+  link: https://www.ipsj.or.jp/event/taikai/85/
+  place: 電気通信大学
   sub: IS
   abstract_deadline:
-  note:
+  note: 締切は例年1月初旬
   hindex:
   long: 情報処理学会
   paperslink:
   pwclink:
-- title: IPSJ-Kansai
-  year: 2021
-  id: ipsjk21
-  deadline: "2021-06-18 12:00:00"
+- title: IPSJ 関西支部会
+  year: 2022
+  id: ipsjk22
+  deadline: "2022-07-20 23:59:59"
   timezone: Asia/Tokyo
-  date: September 19, 2021
-  link: http://kansai.ipsj.or.jp/sibutaikai_2021/
+  date: September 18, 2022
+  link: https://kansai.ipsj.or.jp/sibutaikai_2022/
   place: Online
   sub: IS
-  abstract_deadline:
-  note:
+  abstract_deadline: "2022-06-10 23:59:59"
+  note: 
   hindex:
-  long: 情報処理学会 関西支部
+  long: 情報処理学会 関西支部会
   paperslink:
   pwclink:
 - title: JSLIS-Spring
@@ -135,13 +135,13 @@
   paperslink:
   pwclink:
 - title: ICADL
-  year: 2021
-  id: icadl21
-  deadline: "2021-07-14 23:59:59"
+  year: 2022
+  id: icadl22
+  deadline: "2021-07-01 23:59:59"
   timezone: UTC-12
-  date: Dec 1-3, 2021
-  link: https://icadl.net/icadl2021/index.html#dates
-  place: Online
+  date: November 30 - December 2, 2022
+  link: https://icadl.net/icadl2022/
+  place: Hanoi, Vietnam
   sub: LIS
   abstract_deadline:
   note:
@@ -150,13 +150,13 @@
   paperslink:
   pwclink:
 - title: JCDL
-  year: 2021
-  id: jcdl21
-  deadline: "2021-04-07 23:59:59"
+  year: 2022
+  id: jcdl22
+  deadline: "2022-01-23 23:59:59"
   timezone: UTC-12
-  date: September 27 – 30, 2021
-  link: https://2021.jcdl.org/
-  place: Online
+  date: June 20 – 24, 2022
+  link: https://2022.jcdl.org/
+  place: Cologne, Germany
   sub: LIS
   abstract_deadline:
   note:
@@ -285,11 +285,11 @@
   paperslink:
   pwclink:
 - title: LocalRec
-  year: 2021
-  id: lr21
-  deadline: "2021-09-06 23:59:59"
+  year: 2022
+  id: lr22
+  deadline: TBA
   timezone: UTC-12
-  date: November 2, 2021
+  date: November 1, 2022
   link: https://localrec.github.io/2021/
   place:
   sub: GEO
@@ -300,15 +300,15 @@
   paperslink:
   pwclink:
 - title: CHI
-  year: 2022
-  id: CHI22
-  deadline: "2021-09-09 23:59:59"
+  year: 2023
+  id: CHI23
+  deadline: TBA
   timezone: UTC-12
-  date: April 30–May 5
-  link: https://chi2022.acm.org/
-  place: New Orleans, LA
+  date: April 23-28, 2023
+  link: https://chi2023.acm.org/
+  place: Hamburg, Germany
   sub: UI
-  abstract_deadline: "2021-09-02 23:59:59"
+  abstract_deadline: TBA
   note:
   hindex:
   long: Conference on Human Factors in Computing Systems
@@ -446,34 +446,19 @@
   paperslink:
   pwclink:
 - title: CoNLL
-  year: 2020
-  id: conll2020
-  deadline: "2020-07-17 23:59:59"
+  year: 2022
+  id: conll2022
+  deadline: "2022-06-30 23:59:59"
   timezone: UTC-12
-  date: November 19-20, 2020
-  link: http://www.conll.org/2020
+  date: December 7-8, 2022
+  link: http://www.conll.org/
   place: Online
   sub: NLP
   abstract_deadline:
-  note:
+  note: colocated with EMNLP 2022
   hindex: 34
   long:
-  paperslink: https://aclanthology.org/events/conll-2020/
-  pwclink:
-- title: WMT
-  year: 2020
-  id: wmt20
-  deadline: "2020-08-15 23:59:00"
-  timezone: UTC-12
-  date: November 19-20, 2020
-  link: http://www.statmt.org/wmt20/
-  place: Online
-  sub: NLP
-  abstract_deadline:
-  note:
-  hindex: 27
-  long:
-  paperslink: http://www.statmt.org/wmt20/papers.html
+  paperslink: https://aclanthology.org/events/conll-2022/
   pwclink:
 - title: EACL
   year: 2021
@@ -491,19 +476,19 @@
   paperslink: https://aclanthology.org/events/eacl-2021/#2021-eacl-main
   pwclink: https://paperswithcode.com/conference/eacl-2021-2
 - title: SDM
-  year: 2021
-  id: sdm21
-  deadline: "2020-10-12 23:59:00"
+  year: 2023
+  id: sdm23
+  deadline: TBA
   timezone: UTC-5
-  date: April 29 - May 1, 2021
-  link: https://www.siam.org/conferences/cm/conference/sdm21
-  place: Online
+  date: April 27-29, 2023
+  link: https://www.siam.org/conferences/cm/conference/sdm23
+  place: Minnesota, U.S.
   sub: DM
   abstract_deadline:
-  note:
+  note: Details will be announced in July 2022
   hindex: 33
   long:
-  paperslink: https://epubs.siam.org/doi/book/10.1137/1.9781611976700
+  paperslink:
   pwclink:
 - title: KDD
   year: 2022
@@ -596,28 +581,28 @@
   paperslink:
   pwclink:
 - title: AKBC
-  year: 2021
-  id: akbc21
-  deadline: "2021-06-21 23:59:59"
+  year: 2022
+  id: akbc22
+  deadline: "2022-07-10 23:59:59"
   timezone: UTC-12
-  date: October 4-7, 2021
-  link: https://www.akbc.ws/2021/
-  place: Irvine, United States
+  date: November 3-5, 2022
+  link: https://www.akbc.ws/2022/
+  place: London, UK
   sub: NLP
   abstract_deadline:
   note:
   hindex:
   long:
-  paperslink: https://openreview.net/group?id=AKBC.ws/2021/Conference#all-submissions
+  paperslink: https://openreview.net/group?id=AKBC.ws/2022/Conference#all-submissions
   pwclink:
 - title: WSDM
-  year: 2022
-  id: wsdm22
-  deadline: "2021-08-09 23:59:59"
+  year: 2023
+  id: wsdm23
+  deadline: "2022-08-12 23:59:59"
   timezone: UTC-12
-  date: February 21-25, 2022
-  link: https://www.wsdm-conference.org/2022/
-  place: Phoenix, Arizona, USA
+  date: February 27 to March 3, 2023
+  link: https://www.wsdm-conference.org/2023/
+  place: Singapore
   sub: DM
   abstract_deadline:
   note:
@@ -626,13 +611,13 @@
   paperslink:
   pwclink:
 - title: ICASSP
-  year: 2022
-  id: icassp22
-  deadline: "2021-10-06 23:59:59"
+  year: 2023
+  id: icassp23
+  deadline: "2022-10-19 23:59:59"
   timezone: UTC-12
-  date: May 22-27, 2022
-  link: https://2022.ieeeicassp.org/
-  place: Singapore
+  date: June 4-9, 2023
+  link: https://2023.ieeeicassp.org/
+  place: Rhodes island, Greece
   sub: SP
   abstract_deadline:
   note:
@@ -641,16 +626,16 @@
   paperslink:
   pwclink:
 - title: WWW
-  year: 2022
-  id: www22
-  deadline: "2021-10-21 23:59:59"
+  year: 2023
+  id: www23
+  deadline: TBA
   timezone: UTC-12
-  date: April 25-29, 2022
-  link: https://www2022.thewebconf.org/
-  place: Lyon, France
+  date: May 1-5, 2023
+  link: https://www2023.thewebconf.org/
+  place: Austin, Texas, US
   sub: DM
-  abstract_deadline: "2021-10-14 23:59:59"
-  note: "<b>NOTE</b>: Mandatory abstract deadline on October 12, 2020"
+  abstract_deadline: TBA
+  note:
   hindex: 70
   long:
   paperslink:
