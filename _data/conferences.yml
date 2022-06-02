@@ -44,9 +44,24 @@
   long: 人工知能学会
   paperslink:
   pwclink:
+- title: JCMI
+  year: 2022
+  id: jcmi22
+  deadline: "2022-08-31 23:59:59"
+  timezone: Asia/Tokyo
+  date: Nov 17 – 20, 2022
+  link: https://jcmi42.org/index.html
+  place: Sapporo, Japan
+  sub: MED
+  abstract_deadline: "2022-06-17 23:59:59"
+  note:
+  hindex:
+  long: 医療情報学連合大会 (日本医療情報学会 学術大会)
+  paperslink:
+  pwclink:
 - title: JAMI
   year: 2022
-  id: jami22
+  id: jcmi22
   deadline: "2022-02-21 17:00:00"
   timezone: Asia/Tokyo
   date: June 30 - July 02, 2022
@@ -56,7 +71,7 @@
   abstract_deadline:
   note:
   hindex:
-  long: 医療情報学会
+  long: 医療情報学会 春季学術大会 (シンポジウム)
   paperslink:
   pwclink:
 - title: JAMAI
