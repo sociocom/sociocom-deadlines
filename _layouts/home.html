@@ -183,19 +183,24 @@
           $('#{{conf.id}}').addClass('tba');
         {% else %}
           // adjust date according to deadline timezone
+          var today = moment();
           var timezone = {% if conf.timezone %}"{{conf.timezone}}" {% else %} "America/New_York" {% endif %};
           var confDate = moment.tz("{{conf.deadline}}", timezone);
+          var countdownDate = confDate;
           {% if conf.abstract_deadline %}
             var confDateAbst = moment.tz("{{conf.abstract_deadline}}", timezone);
+            if (today.diff(confDateAbst) < 0) {
+              countdownDate = confDateAbst;
+            }
           {% endif %}
 
           // render countdown timer
-          $('#{{conf.id}} .timer').countdown(confDate.toDate(), function (event) {
+          $('#{{conf.id}} .timer').countdown(countdownDate.toDate(), function (event) {
               $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
           });
 
           // render countdown timer small
-          $('#{{conf.id}} .timer-small').countdown(confDate.toDate(), function (event) {
+          $('#{{conf.id}} .timer-small').countdown(countdownDate.toDate(), function (event) {
               $(this).html(event.strftime('%Dd %H:%M:%S'));
           });
 
@@ -222,9 +227,7 @@
           document.querySelector('#{{conf.id}} .calendar').appendChild(myCalendar);
 
           // check if date has passed, add 'past' class to it
-          var today = moment();
-          diff = today.diff(confDate);
-
+          var diff = today.diff(countdownDate);
           $('#{{conf.id}}').attr("diff", diff)
           if (diff > 0) {
             $('#{{conf.id}}').addClass('past');
