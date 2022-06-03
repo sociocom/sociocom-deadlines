@@ -152,14 +152,14 @@
 - title: ICADL
   year: 2022
   id: icadl22
-  deadline: "2021-07-01 23:59:59"
+  deadline: "2021-07-25 23:59:59"
   timezone: UTC-12
   date: November 30 - December 2, 2022
   link: https://icadl.net/icadl2022/
   place: Hanoi, Vietnam
   sub: LIS
   abstract_deadline:
-  note:
+  note: Poster/Demo papers deadline is August 1, 2022
   hindex:
   long: International Conference on Asia-Pacific Digital Libraries
   paperslink:
