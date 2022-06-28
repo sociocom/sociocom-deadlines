@@ -195,15 +195,15 @@
   paperslink:
   pwclink:
 - title: IUI
-  year: 2022
-  id: IUI22
-  deadline: "2021-10-08 23:59:59"
-  timezone: UTC+2
-  date: March 21 - March 25, 2022
-  link: https://iui.acm.org/2022/index.html
-  place: Helsinki, Finland
+  year: 2023
+  id: IUI23
+  deadline: "2022-10-14 23:59:59"
+  timezone: Australia/Sydney
+  date: March 27 - 31, 2023
+  link: https://iui.acm.org/2023/index.html
+  place: Sydney, Australia
   sub: UI
-  abstract_deadline: "2021-10-01 23:59:59"
+  abstract_deadline: "2022-10-07 23:59:59"
   note:
   hindex:
   long: Annual Conference on Intelligent User Interfaces
@@ -302,13 +302,13 @@
 - title: LocalRec
   year: 2022
   id: lr22
-  deadline: TBA
+  deadline: "2022-08-30 23:59:59"
   timezone: UTC-12
   date: November 1, 2022
-  link: https://localrec.github.io/2021/
-  place:
+  link: https://localrec.github.io/2022/
+  place: Seattle, WA, USA
   sub: GEO
-  abstract_deadline:
+  abstract_deadline: "2022-08-30 23:59:59"
   note:
   hindex:
   long: ACM SIGSPATIAL Workshop on Location-based Recommendations, Geosocial Networks and Geoadvertising
@@ -324,7 +324,7 @@
   place: Hamburg, Germany
   sub: UI
   abstract_deadline: TBA
-  note:
+  note: Deadline will be Sep
   hindex:
   long: Conference on Human Factors in Computing Systems
   paperslink:
