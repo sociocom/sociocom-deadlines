@@ -179,6 +179,21 @@
   long: Joint Conference on Digital Libraries
   paperslink:
   pwclink:
+- title: TPDL
+  year: 2022
+  id: tpdl22
+  deadline: "2022-05-29 23:59:59"
+  timezone: Europe/Rome
+  date: September 20 – 23, 2022
+  link: http://tpdl2022.dei.unipd.it/
+  place: Padua, Italy
+  sub: LIS
+  abstract_deadline:
+  note: Short paper deadline is June 5, 2022
+  hindex:
+  long: International Conference on Theory and Practice of Digital Libraries
+  paperslink:
+  pwclink:
 - title: NL研
   year: 2022
   id: nllab22
