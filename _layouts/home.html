@@ -241,10 +241,14 @@
 
         // Separate TBA confs from coming_confs
         $("#coming_confs .ConfItem").filter(".tba").appendTo($("#tba_confs"));
-        // Sort coming_confs and past_confs
+        // Sort coming_confs
         $("#coming_confs .ConfItem").sort(function (a, b) {
           return $(b).attr('diff') - $(a).attr('diff');
         }).appendTo($("#coming_confs"));
+        // Sort past_confs by most recent first
+        $("#past_confs .ConfItem").sort(function (a, b) {
+          return $(a).attr('diff') - $(b).attr('diff');
+        }).appendTo($("#past_confs"));
 
         $("#sort-order-checkbox input").on("click", function() {
           if ($("#sort-order-checkbox input").is(":checked")) {
