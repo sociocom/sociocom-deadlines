@@ -89,6 +89,21 @@
   long: AIメディカル学会
   paperslink:
   pwclink:
+- title: JAMAI
+  year: 2023
+  id: jasdi23
+  deadline: TBA
+  timezone: Asia/Tokyo
+  date: June 10-11, 2023
+  link: https://www.c-linkage.co.jp/jasdi25/
+  place: Kyoto, Japan
+  sub: MED
+  abstract_deadline:
+  note:
+  hindex:
+  long: 日本医薬品情報学会総会・学術大会
+  paperslink:
+  pwclink:
 - title: IPSJ
   year: 2023
   id: ipsj23
@@ -135,13 +150,13 @@
   paperslink:
   pwclink:
 - title: JSLIS-Autumn
-  year: 2021
-  id: jslis-a21
-  deadline: "2021-08-26 23:59:59"
+  year: 2022
+  id: jslis-a22
+  deadline: "2022-08-29 23:59:59"
   timezone: Asia/Tokyo
-  date: October 16-17, 2021
+  date: October 29-30, 2022
   link: https://jslis.jp/events/annual-conference/
-  place:
+  place: Sendai, Japan
   sub: LIS
   abstract_deadline:
   note:
