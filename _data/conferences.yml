@@ -269,6 +269,21 @@
   long: ACM Conference On Computer-Supported Cooperative Work And Social Computing
   paperslink:
   pwclink:
+- title: MedInfo
+  year: 2023
+  id: medinfo23
+  deadline: "2022-11-18 23:59:59"
+  timezone: Australia/Sydney
+  date: July 8-12, 2023
+  link: https://medinfo2023.org/
+  place: Sydney, Australia
+  sub: NLP
+  abstract_deadline:
+  note:
+  hindex:
+  long: World Congress on Medical and Health Informatics
+  paperslink:
+  pwclink:
 - title: BioNLP
   year: 2022
   id: bionlp22
