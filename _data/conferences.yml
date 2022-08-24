@@ -152,13 +152,13 @@
 - title: JSLIS-Autumn
   year: 2022
   id: jslis-a22
-  deadline: "2022-08-29 23:59:59"
+  deadline: "2022-09-29 23:59:59"
   timezone: Asia/Tokyo
   date: October 29-30, 2022
   link: https://jslis.jp/events/annual-conference/
   place: Sendai, Japan
   sub: LIS
-  abstract_deadline:
+  abstract_deadline: "2022-08-29 23:59:59"
   note:
   hindex:
   long: 日本図書館情報学会 研究大会
