@@ -255,16 +255,16 @@
   paperslink:
   pwclink:
 - title: CSCW
-  year: 2022
-  id: cscw2022
+  year: 2023
+  id: cscw2023
   deadline: "2022-01-15 23:59"
   timezone: UTC-12
-  date: November 12-16, 2022
-  link: https://cscw.acm.org/2022/index.html
-  place: Online
+  date: October 13-18, 2022
+  link: https://cscw.acm.org/2023/index.html
+  place: Minneapolis, MN USA (Hybrid)
   sub: WEB
   abstract_deadline:
-  note:
+  note: Round-style two deadlines are available. January is the second (final)
   hindex:
   long: ACM Conference On Computer-Supported Cooperative Work And Social Computing
   paperslink:
@@ -362,14 +362,14 @@
 - title: CHI
   year: 2023
   id: CHI23
-  deadline: TBA
+  deadline: "2022-09-15 23:59:59"
   timezone: UTC-12
   date: April 23-28, 2023
   link: https://chi2023.acm.org/
   place: Hamburg, Germany
   sub: UI
-  abstract_deadline: TBA
-  note: Deadline will be Sep
+  abstract_deadline: "2022-09-08 23:59:59"
+  note: 
   hindex:
   long: Conference on Human Factors in Computing Systems
   paperslink:
@@ -420,13 +420,13 @@
   paperslink:
   pwclink:
 - title: ACL
-  year: 2022
-  id: acl22
-  deadline: "2021-11-15 23:59:59"
+  year: 2023
+  id: acl23
+  deadline: "TBA"
   timezone: UTC-12
-  date: May 22-27, 2022
-  link: https://2022.aclweb.org/
-  place: Dublin, Ireland
+  date: July 9-14, 2023
+  link: https://2023.aclweb.org/
+  place: Toronto, Canada
   sub: NLP
   abstract_deadline:
   note:
@@ -538,14 +538,14 @@
 - title: SDM
   year: 2023
   id: sdm23
-  deadline: TBA
+  deadline: "2022-10-07 23:59:59"
   timezone: UTC-5
   date: April 27-29, 2023
   link: https://www.siam.org/conferences/cm/conference/sdm23
   place: Minnesota, U.S.
   sub: DM
-  abstract_deadline:
-  note: Details will be announced in July 2022
+  abstract_deadline: "2022-09-30 23:59:59"
+  note:
   hindex: 33
   long:
   paperslink:
@@ -688,29 +688,29 @@
 - title: WWW
   year: 2023
   id: www23
-  deadline: TBA
+  deadline: "2022-10-13 23:59:59"
   timezone: UTC-12
   date: May 1-5, 2023
   link: https://www2023.thewebconf.org/
   place: Austin, Texas, US
   sub: DM
-  abstract_deadline: TBA
+  abstract_deadline: "2022-10-06 23:59:59"
   note:
   hindex: 70
   long:
   paperslink:
   pwclink:
 - title: ICWSM
-  year: 2022
-  id: icwsm22
-  deadline: "2022-01-15 23:59:59"
+  year: 2023
+  id: icwsm23
+  deadline: "2023-01-15 23:59:59"
   timezone: UTC-12
-  date: June 6–9, 2022
+  date: June 5–8, 2022
   link: https://www.icwsm.org/2022/index.html/
   place: Atlanta, Georgia AND Online
   sub: DM
   abstract_deadline:
-  note:
+  note: Round-style three deadlines are available. January is the third (last)
   hindex:
   long:
   paperslink:
