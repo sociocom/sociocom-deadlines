@@ -626,13 +626,13 @@
   paperslink:
   pwclink:
 - title: ICDM
-  year: 2022
-  id: icdm22
-  deadline: "2022-06-10 23:59:59"
-  timezone: America/Los_Angeles
-  date: November 30-December 3, 2022
-  link: https://icdm22.cse.usf.edu/
-  place: Orlando, FL, USA
+  year: 2023
+  id: icdm23
+  deadline: "2023-07-1 23:59:59"
+  timezone: Asia/Shanghai
+  date: December 1-December 4, 2023
+  link: http://www.cloud-conf.net/icdm2023/index.html?sifeby=sjdva1
+  place: Shanghai, China
   sub: DM
   abstract_deadline:
   note:
