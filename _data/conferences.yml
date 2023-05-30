@@ -45,13 +45,13 @@
   paperslink:
   pwclink:
 - title: JCMI
-  year: 2022
-  id: jcmi22
-  deadline: "2022-08-31 23:59:59"
+  year: 2023
+  id: jcmi23
+  deadline: "2022-06-19 23:59:59"
   timezone: Asia/Tokyo
-  date: Nov 17 – 20, 2022
-  link: https://jcmi42.org/index.html
-  place: Sapporo, Japan
+  date: Nov 22 – 25, 2023
+  link: https://jcmi43.org/index.html
+  place: Kobe, Japan
   sub: MED
   abstract_deadline: "2022-06-17 23:59:59"
   note:
@@ -180,13 +180,13 @@
   paperslink:
   pwclink:
 - title: JCDL
-  year: 2022
-  id: jcdl22
-  deadline: "2022-01-23 23:59:59"
+  year: 2023
+  id: jcdl23
+  deadline: "2023-02-05 23:59:59"
   timezone: UTC-12
-  date: June 20 – 24, 2022
-  link: https://2022.jcdl.org/
-  place: Cologne, Germany
+  date: June 26 – 30, 2023
+  link: https://2023.jcdl.org/
+  place: Santa Fe, USA
   sub: LIS
   abstract_deadline:
   note:
@@ -375,13 +375,13 @@
   paperslink:
   pwclink:
 - title: WebSci
-  year: 2022
-  id: websci22
-  deadline: "2022-02-28 23:59:59"
+  year: 2023
+  id: websci23
+  deadline: "2022-11-30 23:59:59"
   timezone: UTC-12
-  date: June 26-29, 2022
-  link: https://websci22.webscience.org/
-  place: Barcelona, Spain
+  date: April 30 - May 1, 2023
+  link: https://websci23.webscience.org/
+  place: Austin, USA
   sub: WEB
   abstract_deadline:
   note:
@@ -521,20 +521,20 @@
   paperslink: https://aclanthology.org/events/conll-2022/
   pwclink:
 - title: EACL
-  year: 2021
-  id: eacl21
-  deadline: "2020-10-07 23:59:00"
+  year: 2023
+  id: eacl23
+  deadline: "2022-10-20 23:59:00"
   timezone: UTC-12
-  date: April 21-23, 2021
-  link: https://2021.eacl.org/
-  place: Online (Kyiv, Ukraine)
+  date: May 2-6, 2023
+  link: https://2023.eacl.org/
+  place: Dubrovnik, Croatia
   sub: NLP
-  abstract_deadline:
+  abstract_deadline: "2022-10-13 23:59:00"
   note:
   hindex: 36
   long:
-  paperslink: https://aclanthology.org/events/eacl-2021/#2021-eacl-main
-  pwclink: https://paperswithcode.com/conference/eacl-2021-2
+  paperslink: https://aclanthology.org/events/eacl-2023/#2023eacl-main
+  pwclink: 
 - title: SDM
   year: 2023
   id: sdm23
@@ -671,13 +671,13 @@
   paperslink:
   pwclink:
 - title: ICASSP
-  year: 2023
-  id: icassp23
-  deadline: "2022-10-19 23:59:59"
+  year: 2024
+  id: icassp24
+  deadline: "2023-09-06 23:59:59"
   timezone: UTC-12
-  date: June 4-9, 2023
-  link: https://2023.ieeeicassp.org/
-  place: Rhodes island, Greece
+  date: April 14-19, 2024
+  link: https://2024.ieeeicassp.org/
+  place: Seoul, Korea
   sub: SP
   abstract_deadline:
   note:
