@@ -330,13 +330,13 @@
   paperslink:
   pwclink:
 - title: CSSJ
-  year: 2022
-  id: CSSJ22
-  deadline: "2022-2-20 23:59:59"
+  year: 2023
+  id: CSSJ23
+  deadline: "2023-2-13 23:59:59"
   timezone: Asia/Tokyo
-  date: February 28 - March 1, 2022
+  date: February 20 - February 21, 2023
   link: https://css-japan.com/
-  place: Online
+  place: Tokyo, Japan
   sub: SOC
   abstract_deadline:
   note:
