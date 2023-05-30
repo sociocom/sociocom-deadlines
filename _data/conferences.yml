@@ -285,13 +285,13 @@
   paperslink:
   pwclink:
 - title: BioNLP
-  year: 2022
-  id: bionlp22
-  deadline: "2022-03-07 23:59:59"
-  timezone: UTC-12
-  date: May 26, 2022
+  year: 2023
+  id: bionlp23
+  deadline: "2022-04-24 23:59:59"
+  timezone: America/Toronto
+  date: July 13, 2023
   link: https://aclweb.org/aclwiki/BioNLP_Workshop#IMPORTANT_DATES
-  place: Dublin, Ireland
+  place: Toronto, Canada
   sub: MED
   abstract_deadline:
   note:
