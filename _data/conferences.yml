@@ -450,14 +450,14 @@
   paperslink:
   pwclink:
 - title: FAccT
-  year: 2022
-  id: facct22
-  link: https://facctconference.org/2022/
-  deadline: "2022-01-14 23:59:00"
-  abstract_deadline: "2021-12-15 23:59:00"
+  year: 2023
+  id: facct23
+  link: https://facctconference.org/2023/
+  deadline: "2023-02-06 23:59:59"
+  abstract_deadline: "2023-01-30 23:59:59"
   timezone: UTC-12
-  place: Seoul, South Korea
-  date: June 21-24, 2022
+  place: Chicago, Illinois, USA
+  date: June 12-15, 2023
   hindex: 44
   sub: DM
 - title: NAACL
