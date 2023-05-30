@@ -15,15 +15,15 @@
   paperslink:
   pwclink:
 - title: DEIM
-  year: 2023
-  id: deim23
-  deadline: "2023-01-11 23:59:59"
+  year: 2024
+  id: deim24
+  deadline: "TBA"
   timezone: Asia/Tokyo
-  date: March 5-9, 2023
-  link: https://event.dbsj.org/deim2022/
+  date: TBA
+  link: https://event.dbsj.org/deim2024/
   place: Hybrid
   sub: DB
-  abstract_deadline: "2022-12-19 23:59:59"
+  abstract_deadline: "TBA"
   note:
   hindex:
   long: 日本データベース学会
