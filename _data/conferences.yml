@@ -240,15 +240,15 @@
   paperslink:
   pwclink:
 - title: HT
-  year: 2022
-  id: HT2022
-  deadline: "2022-02-17 23:59:59"
+  year: 2023
+  id: HT2023
+  deadline: "2023-04-21 23:59:59"
   timezone: UTC-12
-  date: June 28 – July 1, 2022
-  link: https://ht.acm.org/ht2022/
-  place: Barcelona, Spain/Online
+  date: September 4 - 8, 2022
+  link: https://ht.acm.org/ht2023/
+  place: Eulope, Rome
   sub: WEB
-  abstract_deadline: "2022-02-10 23:59:59"
+  abstract_deadline:
   note:
   hindex:
   long: HyperText
