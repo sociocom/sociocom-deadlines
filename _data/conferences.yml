@@ -581,19 +581,19 @@
   paperslink:
   pwclink:
 - title: RecSys
-  year: 2022
-  id: recsys22
-  deadline: "2022-05-03 23:59:59"
+  year: 2023
+  id: recsys23
+  deadline: "2023-04-21 23:59:59"
   timezone: UTC-12
-  date: September 18 - September 23, 2022
-  link: https://recsys.acm.org/recsys22/
-  place: Amsterdam, Netherlands
+  date: September 18th–22nd, 2023
+  link: https://recsys.acm.org/recsys23/dates/
+  place: Singapore
   sub: DM
-  abstract_deadline: "2022-04-26 23:59:59"
+  abstract_deadline: "2023-04-14 23:59:59"
   note:
   hindex: 45
   long:
-  paperslink: https://recsys.acm.org/recsys21/accepted-contributions/#content-tab-1-0-tab
+  paperslink: 
   pwclink:
 - title: EMNLP
   year: 2022
