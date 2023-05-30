@@ -308,8 +308,8 @@
   link: https://n2c2.dbmi.hms.harvard.edu/
   place:
   sub: MED
-  abstract_deadline: "2022-08-01 23:59:59"
-  note:
+  abstract_deadline: 
+  note: "different deadlines per track"
   hindex:
   long: National NLP Clinical Challenges
   paperslink:
