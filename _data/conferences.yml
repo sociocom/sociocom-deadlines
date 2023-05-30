@@ -476,19 +476,19 @@
   paperslink:
   pwclink:
 - title: AACL-IJCNLP
-  year: 2022
-  id: aacl22
-  deadline: "2022-07-15 23:59:00"
+  year: 2023
+  id: aacl23
+  deadline: "2023-05-23 23:59:00"
   timezone: UTC-12
-  date: November 21-24, 2022
-  link: https://www.aacl2022.org/
-  place: Taipei, Taiwan
+  date: November 2-4, 2023
+  link: http://www.ijcnlp-aacl2023.org/
+  place: Bali, Indonesia
   sub: NLP
   abstract_deadline:
   note:
   hindex:
   long:
-  paperslink: https://aclanthology.org/events/aacl-2022/
+  paperslink:
   pwclink: https://paperswithcode.com/conference/asian-chapter-of-the-association-for
 - title: COLING
   year: 2022
