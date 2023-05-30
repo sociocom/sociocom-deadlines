@@ -566,16 +566,16 @@
   paperslink:
   pwclink:
 - title: SIGIR
-  year: 2022
-  id: sigir22
-  deadline: "2022-01-28 23:59:00"
+  year: 2023
+  id: sigir23
+  deadline: "2023-01-31 23:59:00"
   timezone: UTC-12
-  date: July 11-15, 2022
-  link: https://sigir.org/sigir2022/
-  place: Madrid, Spain
+  date: July 23-27, 2023
+  link: https://sigir.org/sigir2023/
+  place: Taipei, Taiwan
   sub: DM
-  abstract_deadline: "2022-01-21 23:59:00"
-  note: "<b>NOTE</b>: Mandatory abstract deadline on January 21, 2022. More info <a href='https://sigir.org/sigir2022/call-for-papers/'>here</a>."
+  abstract_deadline: "2023-01-24 23:59:00"
+  note: 
   hindex: 66
   long:
   paperslink:
