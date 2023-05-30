@@ -422,13 +422,13 @@
 - title: ACL
   year: 2023
   id: acl23
-  deadline: "TBA"
+  deadline: "2023-01-20 23:59:59"
   timezone: UTC-12
   date: July 9-14, 2023
   link: https://2023.aclweb.org/
   place: Toronto, Canada
   sub: NLP
-  abstract_deadline:
+  abstract_deadline:"2023-01-13 23:59:59"
   note:
   hindex: 157
   long:
