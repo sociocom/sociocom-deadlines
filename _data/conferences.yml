@@ -210,15 +210,15 @@
   paperslink:
   pwclink:
 - title: NL研
-  year: 2022
-  id: nllab22
-  deadline: "2022-06-07 23:59:59"
+  year: 2023
+  id: nllab23
+  deadline: "2023-04-21 23:59:59"
   timezone: Asia/Tokyo
-  date: June 29-30, 2022
+  date: May 27-28, 2023
   link: https://nl-ipsj.or.jp
-  place: Online
+  place: Hokkaido/Japan
   sub: NLP
-  abstract_deadline: "2022-5-24 23:59:59"
+  abstract_deadline: "2023-5-1 23:59:59"
   note:
   hindex:
   long: 情報処理学会 自然言語処理研究会 (NL)
