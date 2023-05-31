@@ -596,16 +596,16 @@
   paperslink: https://recsys.acm.org/recsys21/accepted-contributions/#content-tab-1-0-tab
   pwclink:
 - title: EMNLP
-  year: 2022
-  id: emnlp22
-  deadline: "2022-06-24 23:59:00"
+  year: 2023
+  id: emnlp23
+  deadline: "2023-06-23 23:59:59"
   timezone: UTC-12
-  date: December 7-11, 2022
-  link: https://2022.emnlp.org/
-  place: Abu Dhabi, UAE
+  date: December 6-10, 2023
+  link: https://2023.emnlp.org/
+  place: Singapore
   sub: NLP
-  abstract_deadline: "2022-06-17 23:59:00"
-  note: Hybrid format with ARR and START. More info <a href='https://2022.emnlp.org/calls/papers/Overview'>here</a>.
+  abstract_deadline: "2023-06-16 23:59:59"
+  note: Hybrid format with ARR and START. More info <a href='https://2023.emnlp.org/calls/main_conference_papers/#overview'>here</a>.
   hindex: 132
   long:
   paperslink:
