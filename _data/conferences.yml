@@ -315,15 +315,15 @@
   paperslink:
   pwclink:
 - title: IC2S2
-  year: 2022
+  year: 2023
   id: ic2s222
-  deadline: "2022-3-11 23:59:59"
-  timezone: UTC-5
-  date: July 19-22, 2022
+  deadline: "2023-3-3 23:59:59"
+  timezone: UTC+2
+  date: July 17-20, 2023
   link: https://boothuchicagocaai.wixsite.com/website-2
-  place: Chicago, USA
+  place: Copenhagen, Denmark
   sub: SOC
-  abstract_deadline: "2022-3-11 23:59:59"
+  abstract_deadline: "2022-3-3 23:59:59"
   note:
   hindex:
   long: International Conference on Computational Social Science
