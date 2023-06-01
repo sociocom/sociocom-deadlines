@@ -15,15 +15,15 @@
   paperslink:
   pwclink:
 - title: DEIM
-  year: 2023
-  id: deim23
-  deadline: "2023-01-11 23:59:59"
+  year: 2024
+  id: deim24
+  deadline: "TBA"
   timezone: Asia/Tokyo
-  date: March 5-9, 2023
-  link: https://event.dbsj.org/deim2022/
+  date: TBA
+  link: https://event.dbsj.org/deim2024/
   place: Hybrid
   sub: DB
-  abstract_deadline: "2022-12-19 23:59:59"
+  abstract_deadline: "TBA"
   note:
   hindex:
   long: 日本データベース学会
@@ -345,15 +345,15 @@
   paperslink:
   pwclink:
 - title: LocalRec
-  year: 2022
-  id: lr22
-  deadline: "2022-08-30 23:59:59"
+  year: 2023
+  id: lr23
+  deadline: "2023-09-01 23:59:59"
   timezone: UTC-12
-  date: November 1, 2022
-  link: https://localrec.github.io/2022/
+  date: November 13, 2023
+  link: https://localrec.github.io/2023/
   place: Seattle, WA, USA
   sub: GEO
-  abstract_deadline: "2022-08-30 23:59:59"
+  abstract_deadline: "2023-09-01 23:59:59"
   note:
   hindex:
   long: ACM SIGSPATIAL Workshop on Location-based Recommendations, Geosocial Networks and Geoadvertising
