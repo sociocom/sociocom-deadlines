@@ -1,12 +1,12 @@
 ---
 - title: NLP
-  year: 2022
-  id: jnlp22
-  deadline: "2022-01-14 15:00:00"
+  year: 2023
+  id: jnlp23
+  deadline: "2023-01-13 15:00:00"
   timezone: Asia/Tokyo
-  date: March 14–18, 2022
-  link: https://www.anlp.jp/nlp2022/
-  place: Online
+  date: March 13–17, 2023
+  link: https://www.anlp.jp/nlp2023/
+  place: Okinawa, Japan
   sub: NLP
   abstract_deadline:
   note:
@@ -135,15 +135,15 @@
   paperslink:
   pwclink:
 - title: JSLIS-Spring
-  year: 2022
-  id: jslis-s22
-  deadline: "2022-05-04 23:59:59"
+  year: 2023
+  id: jslis-s23
+  deadline: "2023-05-10 23:59:59"
   timezone: Asia/Tokyo
-  date: June 4, 2022
+  date: June 10, 2023
   link: https://jslis.jp/events/spring-research-meeting/
-  place: Kanagawa, Japan
+  place: Tokyo, Japan
   sub: LIS
-  abstract_deadline: "2021-04-04 23:59:59"
+  abstract_deadline: "2023-04-10 23:59:59"
   note:
   hindex:
   long: 日本図書館情報学会 春季研究集会
@@ -330,13 +330,13 @@
   paperslink:
   pwclink:
 - title: CSSJ
-  year: 2022
-  id: CSSJ22
-  deadline: "2022-2-20 23:59:59"
+  year: 2023
+  id: CSSJ23
+  deadline: "2023-2-13 23:59:59"
   timezone: Asia/Tokyo
-  date: February 28 - March 1, 2022
+  date: February 20 - February 21, 2023
   link: https://css-japan.com/
-  place: Online
+  place: Tokyo, Japan
   sub: SOC
   abstract_deadline:
   note:
@@ -476,19 +476,19 @@
   paperslink:
   pwclink:
 - title: AACL-IJCNLP
-  year: 2022
-  id: aacl22
-  deadline: "2022-07-15 23:59:00"
+  year: 2023
+  id: aacl23
+  deadline: "2023-05-23 23:59:00"
   timezone: UTC-12
-  date: November 21-24, 2022
-  link: https://www.aacl2022.org/
-  place: Taipei, Taiwan
+  date: November 2-4, 2023
+  link: http://www.ijcnlp-aacl2023.org/
+  place: Bali, Indonesia
   sub: NLP
   abstract_deadline:
   note:
   hindex:
   long:
-  paperslink: https://aclanthology.org/events/aacl-2022/
+  paperslink:
   pwclink: https://paperswithcode.com/conference/asian-chapter-of-the-association-for
 - title: COLING
   year: 2022
@@ -626,13 +626,13 @@
   paperslink:
   pwclink:
 - title: ICDM
-  year: 2022
-  id: icdm22
-  deadline: "2022-06-10 23:59:59"
-  timezone: America/Los_Angeles
-  date: November 30-December 3, 2022
-  link: https://icdm22.cse.usf.edu/
-  place: Orlando, FL, USA
+  year: 2023
+  id: icdm23
+  deadline: "2023-07-1 23:59:59"
+  timezone: Asia/Shanghai
+  date: December 1-December 4, 2023
+  link: http://www.cloud-conf.net/icdm2023/index.html?sifeby=sjdva1
+  place: Shanghai, China
   sub: DM
   abstract_deadline:
   note:
