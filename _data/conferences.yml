@@ -195,16 +195,16 @@
   paperslink:
   pwclink:
 - title: TPDL
-  year: 2022
-  id: tpdl22
-  deadline: "2022-05-29 23:59:59"
-  timezone: Europe/Rome
-  date: September 20 – 23, 2022
-  link: http://tpdl2022.dei.unipd.it/
-  place: Padua, Italy
+  year: 2023
+  id: tpdl23
+  deadline: "2023-06-05 23:59:59"
+  timezone: Europe/Zagreb
+  date: September 26 – 29, 2023
+  link: https://tpdl2023.dei.unipd.it/
+  place: Zadar, Croatia
   sub: LIS
   abstract_deadline:
-  note: Short paper deadline is June 5, 2022
+  note: Short paper deadline is June 12, 2023
   hindex:
   long: International Conference on Theory and Practice of Digital Libraries
   paperslink:
