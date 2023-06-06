@@ -75,13 +75,13 @@
   paperslink:
   pwclink:
 - title: JAMAI
-  year: 2022
-  id: jamai22
-  deadline: "2022-03-16 12:00:00"
+  year: 2023
+  id: jamai23
+  deadline: "2023-03-29 18:00:00"
   timezone: Asia/Tokyo
-  date: June 10-11, 2022
-  link: https://jmai2022.org/
-  place: Sendai, Japan
+  date: June 17-18, 2023
+  link: https://www.jmai2023.jp/index.html
+  place: Tokyo Nihonbashi, Japan
   sub: MED
   abstract_deadline:
   note:
@@ -89,7 +89,7 @@
   long: AIメディカル学会
   paperslink:
   pwclink:
-- title: JAMAI
+- title: JASDI
   year: 2023
   id: jasdi23
   deadline: "2023-03-10 00:00:00"
@@ -195,16 +195,16 @@
   paperslink:
   pwclink:
 - title: TPDL
-  year: 2022
-  id: tpdl22
-  deadline: "2022-05-29 23:59:59"
-  timezone: Europe/Rome
-  date: September 20 – 23, 2022
-  link: http://tpdl2022.dei.unipd.it/
-  place: Padua, Italy
+  year: 2023
+  id: tpdl23
+  deadline: "2023-06-05 23:59:59"
+  timezone: Europe/Zagreb
+  date: September 26 – 29, 2023
+  link: https://tpdl2023.dei.unipd.it/
+  place: Zadar, Croatia
   sub: LIS
   abstract_deadline:
-  note: Short paper deadline is June 5, 2022
+  note: Short paper deadline is June 12, 2023
   hindex:
   long: International Conference on Theory and Practice of Digital Libraries
   paperslink:
