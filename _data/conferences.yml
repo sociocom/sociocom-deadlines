@@ -240,15 +240,15 @@
   paperslink:
   pwclink:
 - title: HT
-  year: 2022
-  id: HT2022
-  deadline: "2022-02-17 23:59:59"
+  year: 2023
+  id: HT2023
+  deadline: "2023-04-21 23:59:59"
   timezone: UTC-12
-  date: June 28 – July 1, 2022
-  link: https://ht.acm.org/ht2022/
-  place: Barcelona, Spain/Online
+  date: September 4 - 8, 2022
+  link: https://ht.acm.org/ht2023/
+  place: Eulope, Rome
   sub: WEB
-  abstract_deadline: "2022-02-10 23:59:59"
+  abstract_deadline:
   note:
   hindex:
   long: HyperText
@@ -315,15 +315,15 @@
   paperslink:
   pwclink:
 - title: IC2S2
-  year: 2022
+  year: 2023
   id: ic2s222
-  deadline: "2022-3-11 23:59:59"
-  timezone: UTC-5
-  date: July 19-22, 2022
+  deadline: "2023-3-3 23:59:59"
+  timezone: UTC+2
+  date: July 17-20, 2023
   link: https://boothuchicagocaai.wixsite.com/website-2
-  place: Chicago, USA
+  place: Copenhagen, Denmark
   sub: SOC
-  abstract_deadline: "2022-3-11 23:59:59"
+  abstract_deadline: "2022-3-3 23:59:59"
   note:
   hindex:
   long: International Conference on Computational Social Science
@@ -611,15 +611,15 @@
   paperslink:
   pwclink:
 - title: CIKM
-  year: 2022
+  year: 2023
   id: cikm22
-  deadline: "2022-05-16 23:59:59"
-  timezone: UTC-12
-  date: October 17-22, 2021
+  deadline: "2023-06-02 23:59:59"
+  timezone: UTC+1
+  date: October 21-25, 2023
   link: https://www.cikm2022.org/
-  place: Atlanta, Georgia, USA
+  place: Birmingham, UK
   sub: DM
-  abstract_deadline: "2022-05-09 23:59:59"
+  abstract_deadline: "2023-05-26 23:59:59"
   note:
   hindex: 48
   long:
