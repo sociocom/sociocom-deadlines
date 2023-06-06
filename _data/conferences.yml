@@ -105,13 +105,13 @@
   paperslink:
   pwclink:
 - title: IPSJ
-  year: 2023
-  id: ipsj23
+  year: 2024
+  id: ipsj24
   deadline: TBA
   timezone: Asia/Tokyo
-  date: 2023年3月2日（木）～4日（土）
-  link: https://www.ipsj.or.jp/event/taikai/85/
-  place: 電気通信大学
+  date: 2024年3月15日（金）～17日（日）
+  link: https://www.ipsj.or.jp/event/taikai/86/
+  place: 神奈川大学 横浜キャンパス
   sub: IS
   abstract_deadline:
   note: 締切は例年1月初旬
@@ -257,9 +257,9 @@
 - title: CSCW
   year: 2023
   id: cscw2023
-  deadline: "2022-01-15 23:59"
+  deadline: "2023-01-15 23:59"
   timezone: UTC-12
-  date: October 13-18, 2022
+  date: October 14-18, 2023
   link: https://cscw.acm.org/2023/index.html
   place: Minneapolis, MN USA (Hybrid)
   sub: WEB
