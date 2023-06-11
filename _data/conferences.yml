@@ -360,15 +360,15 @@
   paperslink:
   pwclink:
 - title: CHI
-  year: 2023
-  id: CHI23
-  deadline: "2022-09-15 23:59:59"
+  year: 2024
+  id: CHI24
+  deadline: "2023-09-14 23:59:59"
   timezone: UTC-12
-  date: April 23-28, 2023
-  link: https://chi2023.acm.org/
-  place: Hamburg, Germany
+  date: May 11-16, 2024
+  link: https://chi2024.acm.org/
+  place: Honolulu, Hawai'i 
   sub: UI
-  abstract_deadline: "2022-09-08 23:59:59"
+  abstract_deadline: "2023-09-07 23:59:59"
   note: 
   hindex:
   long: Conference on Human Factors in Computing Systems
