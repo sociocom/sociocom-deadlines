@@ -360,15 +360,15 @@
   paperslink:
   pwclink:
 - title: CHI
-  year: 2023
-  id: CHI23
-  deadline: "2022-09-15 23:59:59"
+  year: 2024
+  id: CHI24
+  deadline: "2023-09-14 23:59:59"
   timezone: UTC-12
-  date: April 23-28, 2023
-  link: https://chi2023.acm.org/
-  place: Hamburg, Germany
+  date: May 11-16, 2024
+  link: https://chi2024.acm.org/
+  place: Honolulu, Hawai'i 
   sub: UI
-  abstract_deadline: "2022-09-08 23:59:59"
+  abstract_deadline: "2023-09-07 23:59:59"
   note: 
   hindex:
   long: Conference on Human Factors in Computing Systems
@@ -506,19 +506,19 @@
   paperslink:
   pwclink:
 - title: CoNLL
-  year: 2022
-  id: conll2022
-  deadline: "2022-06-30 23:59:59"
+  year: 2023
+  id: conll2023
+  deadline: "2023-06-30 23:59:59"
   timezone: UTC-12
-  date: December 7-8, 2022
+  date: December 6-7, 2023
   link: http://www.conll.org/
-  place: Online
+  place: Singapore
   sub: NLP
   abstract_deadline:
-  note: colocated with EMNLP 2022
+  note: colocated with EMNLP 2023
   hindex: 34
   long:
-  paperslink: https://aclanthology.org/events/conll-2022/
+  paperslink: 
   pwclink:
 - title: EACL
   year: 2023
