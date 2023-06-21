@@ -449,18 +449,18 @@
   long:
   paperslink:
   pwclink:
-- title: LREC
-  year: 2022
+- title: LREC-COLING
+  year: 2024
   id: lrec
-  deadline: "2022-01-10 23:59:59"
-  timezone: Europe/Paris
-  date: June 20-25, 2022
-  link: http://elra.info/en/lrec/lrec-2022/
-  place: Marseille, France
+  deadline: "TBA"
+  timezone: Europe/Rome
+  date: May 20-25, 2024
+  link: https://lrec-coling-2024.lrec-conf.org/
+  place: Turin, Italy
   sub: NLP
   abstract_deadline:
-  note:
-  hindex: 38
+  note: "Biannual conference (even years)"
+  hindex:
   long:
   paperslink:
   pwclink:
@@ -490,7 +490,7 @@
   long:
   paperslink:
   pwclink:
-- title: AACL-IJCNLP
+- title: IJCNLP-AACL
   year: 2023
   id: aacl
   deadline: "2023-05-23 23:59:00"
@@ -505,21 +505,21 @@
   long:
   paperslink:
   pwclink: https://paperswithcode.com/conference/asian-chapter-of-the-association-for
-- title: COLING
-  year: 2022
-  id: coling
-  deadline: "2022-05-17 23:59:59"
-  timezone: UTC-12
-  date: October 12-17, 2022
-  link: https://coling2022.org/
-  place: Gyeongju, Republic of Korea
-  sub: NLP
-  abstract_deadline:
-  note:
-  hindex: 64
-  long:
-  paperslink:
-  pwclink:
+# - title: COLING
+#   year: 2022
+#   id: coling
+#   deadline: "2022-05-17 23:59:59"
+#   timezone: UTC-12
+#   date: October 12-17, 2022
+#   link: https://coling2022.org/
+#   place: Gyeongju, Republic of Korea
+#   sub: NLP
+#   abstract_deadline:
+#   note:
+#   hindex: 64
+#   long:
+#   paperslink:
+#   pwclink:
 - title: CoNLL
   year: 2023
   id: conll
