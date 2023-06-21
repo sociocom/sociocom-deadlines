@@ -1,7 +1,7 @@
 ---
 - title: NLP
   year: 2023
-  id: jnlp23
+  id: jnlp
   deadline: "2023-01-13 15:00:00"
   timezone: Asia/Tokyo
   date: March 13–17, 2023
@@ -16,7 +16,7 @@
   pwclink:
 - title: DEIM
   year: 2024
-  id: deim24
+  id: deim
   deadline: "TBA"
   timezone: Asia/Tokyo
   date: TBA
@@ -29,9 +29,40 @@
   long: 日本データベース学会
   paperslink:
   pwclink:
+- title: WebDBW
+  year: 2023
+  id: webdbw
+  deadline: "2023-08-20 23:59:59"
+  timezone: Asia/Tokyo
+  date: Sep 21-22, 2023
+  link: https://db-event.jpn.org/webdbw2023/
+  place: 北九州国際会議場
+  sub: DB
+  abstract_deadline: "2023-07-18 23:59:59"
+  note:
+  hindex:
+  long: WebDB夏のワークショップ
+  paperslink:
+  plink:
+- title: YANS
+  year: 2023
+  id: yans
+  deadline: "2023-08-04 23:59:59"
+  timezone: Asia/Tokyo
+  date: 2023年8月29日(火) - 31日(木)
+  link: https://yans.anlp.jp/entry/yans2023
+  place: 浅草橋ヒューリックホール
+  sub: NLP
+  abstract_deadline: "2023-07-31 23:59:59"
+  note:
+  hindex:
+  long: NLP若手の会シンポジウム
+  paperslink:
+  pwclink:
+link:
 - title: JSAI
   year: 2023
-  id: jsai23
+  id: jsai
   deadline: "2023-03-03 14:00:00"
   timezone: Asia/Tokyo
   date: Jun 6-9, 2023
@@ -46,7 +77,7 @@
   pwclink:
 - title: JCMI
   year: 2023
-  id: jcmi23
+  id: jcmi
   deadline: "2022-06-19 23:59:59"
   timezone: Asia/Tokyo
   date: Nov 22 – 25, 2023
@@ -61,7 +92,7 @@
   pwclink:
 - title: JAMI
   year: 2022
-  id: jami22
+  id: jami
   deadline: "2022-02-21 17:00:00"
   timezone: Asia/Tokyo
   date: June 30 - July 02, 2022
@@ -76,7 +107,7 @@
   pwclink:
 - title: JAMAI
   year: 2023
-  id: jamai23
+  id: jamai
   deadline: "2023-03-29 18:00:00"
   timezone: Asia/Tokyo
   date: June 17-18, 2023
@@ -91,7 +122,7 @@
   pwclink:
 - title: JASDI
   year: 2023
-  id: jasdi23
+  id: jasdi
   deadline: "2023-03-10 00:00:00"
   timezone: Asia/Tokyo
   date: June 10-11, 2023
@@ -106,7 +137,7 @@
   pwclink:
 - title: IPSJ
   year: 2024
-  id: ipsj24
+  id: ipsj
   deadline: TBA
   timezone: Asia/Tokyo
   date: 2024年3月15日（金）～17日（日）
@@ -121,7 +152,7 @@
   pwclink:
 - title: IPSJ 関西支部会
   year: 2023
-  id: ipsjk23
+  id: ipsjk
   deadline: "2023-07-20 23:59:59"
   timezone: Asia/Tokyo
   date: September 24, 2023
@@ -136,7 +167,7 @@
   pwclink:
 - title: JSLIS-Spring
   year: 2023
-  id: jslis-s23
+  id: jslis-s
   deadline: "2023-05-10 23:59:59"
   timezone: Asia/Tokyo
   date: June 10, 2023
@@ -150,15 +181,15 @@
   paperslink:
   pwclink:
 - title: JSLIS-Autumn
-  year: 2022
-  id: jslis-a22
-  deadline: "2022-09-29 23:59:59"
+  year: 2023
+  id: jslis-a
+  deadline: "2022-09-07 23:59:59"
   timezone: Asia/Tokyo
-  date: October 29-30, 2022
+  date: October 7-8, 2023
   link: https://jslis.jp/events/annual-conference/
-  place: Sendai, Japan
+  place: Aichi, Japan
   sub: LIS
-  abstract_deadline: "2022-08-29 23:59:59"
+  abstract_deadline: "2023-08-07 23:59:59"
   note:
   hindex:
   long: 日本図書館情報学会 研究大会
@@ -166,7 +197,7 @@
   pwclink:
 - title: ICADL
   year: 2023
-  id: icadl23
+  id: icadl
   deadline: "2023-07-6 23:59:59"
   timezone: UTC+8
   date: December 4 - December 7, 2023
@@ -181,7 +212,7 @@
   pwclink:
 - title: JCDL
   year: 2023
-  id: jcdl23
+  id: jcdl
   deadline: "2023-02-05 23:59:59"
   timezone: UTC-12
   date: June 26 – 30, 2023
@@ -196,7 +227,7 @@
   pwclink:
 - title: TPDL
   year: 2023
-  id: tpdl23
+  id: tpdl
   deadline: "2023-06-05 23:59:59"
   timezone: Europe/Zagreb
   date: September 26 – 29, 2023
@@ -211,7 +242,7 @@
   pwclink:
 - title: NL研
   year: 2023
-  id: nllab23
+  id: nllab
   deadline: "2023-04-21 23:59:59"
   timezone: Asia/Tokyo
   date: May 27-28, 2023
@@ -226,7 +257,7 @@
   pwclink:
 - title: IUI
   year: 2024
-  id: IUI24
+  id: iui
   deadline: "2024-10-07 23:59:59"
   timezone: UTC-12
   date: March 18 - 21, 2024
@@ -241,7 +272,7 @@
   pwclink:
 - title: HT
   year: 2023
-  id: HT2023
+  id: ht
   deadline: "2023-04-21 23:59:59"
   timezone: UTC-12
   date: September 4 - 8, 2022
@@ -256,7 +287,7 @@
   pwclink:
 - title: CSCW
   year: 2023
-  id: cscw2023
+  id: cscw
   deadline: "2023-01-15 23:59"
   timezone: UTC-12
   date: October 14-18, 2023
@@ -271,7 +302,7 @@
   pwclink:
 - title: MedInfo
   year: 2023
-  id: medinfo23
+  id: medinfo
   deadline: "2022-11-18 23:59:59"
   timezone: Australia/Sydney
   date: July 8-12, 2023
@@ -286,7 +317,7 @@
   pwclink:
 - title: BioNLP
   year: 2023
-  id: bionlp23
+  id: bionlp
   deadline: "2022-04-24 23:59:59"
   timezone: America/Toronto
   date: July 13, 2023
@@ -301,7 +332,7 @@
   pwclink:
 - title: n2c2
   year: 2022
-  id: n2c222
+  id: n2c2
   deadline: "2022-05-06 23:59:59"
   timezone: UTC-12
   date: November, 2022
@@ -316,7 +347,7 @@
   pwclink:
 - title: IC2S2
   year: 2023
-  id: ic2s222
+  id: ic2s2
   deadline: "2023-3-3 23:59:59"
   timezone: UTC+2
   date: July 17-20, 2023
@@ -331,7 +362,7 @@
   pwclink:
 - title: CSSJ
   year: 2023
-  id: CSSJ23
+  id: cssj
   deadline: "2023-2-13 23:59:59"
   timezone: Asia/Tokyo
   date: February 20 - February 21, 2023
@@ -346,7 +377,7 @@
   pwclink:
 - title: LocalRec
   year: 2023
-  id: lr23
+  id: lr
   deadline: "2023-09-01 23:59:59"
   timezone: UTC-12
   date: November 13, 2023
@@ -361,7 +392,7 @@
   pwclink:
 - title: CHI
   year: 2024
-  id: CHI24
+  id: chi
   deadline: "2023-09-14 23:59:59"
   timezone: UTC-12
   date: May 11-16, 2024
@@ -376,7 +407,7 @@
   pwclink:
 - title: WebSci
   year: 2023
-  id: websci23
+  id: websci
   deadline: "2022-11-30 23:59:59"
   timezone: UTC-12
   date: April 30 - May 1, 2023
@@ -389,24 +420,9 @@
   long: ACM Conference on Web Science
   paperslink:
   pwclink:
-- title: CiCLing
-  year: 2022
-  id: cicling22
-  deadline: "TBA"
-  timezone: UTC-12
-  date: TBA
-  link: http://www.cicling.org
-  place: Jaipur, India
-  sub: NLP
-  abstract_deadline:
-  note:
-  hindex:
-  long: Computational Linguistics and Intelligent Text Processing
-  paperslink:
-  pwclink:
 - title: InterSpeech
   year: 2022
-  id: interspeech22
+  id: interspeech
   deadline: "2022-03-21 23:59:59"
   timezone: Asia/Tokyo
   date: September, 18-22, 2022
@@ -421,7 +437,7 @@
   pwclink:
 - title: ACL
   year: 2023
-  id: acl23
+  id: acl
   deadline: "2023-01-20 23:59:59"
   timezone: UTC-12
   date: July 9-14, 2023
@@ -436,7 +452,7 @@
   pwclink:
 - title: LREC
   year: 2022
-  id: lrec22
+  id: lrec
   deadline: "2022-01-10 23:59:59"
   timezone: Europe/Paris
   date: June 20-25, 2022
@@ -451,7 +467,7 @@
   pwclink:
 - title: FAccT
   year: 2023
-  id: facct23
+  id: facct
   link: https://facctconference.org/2023/
   deadline: "2023-02-06 23:59:59"
   abstract_deadline: "2023-01-30 23:59:59"
@@ -462,7 +478,7 @@
   sub: DM
 - title: NAACL
   year: 2022
-  id: naacl22
+  id: naacl
   deadline: "2022-01-15 23:59:00"
   timezone: UTC-12
   date: July 10-15, 2022
@@ -477,7 +493,7 @@
   pwclink:
 - title: AACL-IJCNLP
   year: 2023
-  id: aacl23
+  id: aacl
   deadline: "2023-05-23 23:59:00"
   timezone: UTC-12
   date: November 2-4, 2023
@@ -492,7 +508,7 @@
   pwclink: https://paperswithcode.com/conference/asian-chapter-of-the-association-for
 - title: COLING
   year: 2022
-  id: coling22
+  id: coling
   deadline: "2022-05-17 23:59:59"
   timezone: UTC-12
   date: October 12-17, 2022
@@ -507,7 +523,7 @@
   pwclink:
 - title: CoNLL
   year: 2023
-  id: conll2023
+  id: conll
   deadline: "2023-06-30 23:59:59"
   timezone: UTC-12
   date: December 6-7, 2023
@@ -522,7 +538,7 @@
   pwclink:
 - title: EACL
   year: 2023
-  id: eacl23
+  id: eacl
   deadline: "2022-10-20 23:59:00"
   timezone: UTC-12
   date: May 2-6, 2023
@@ -537,7 +553,7 @@
   pwclink: 
 - title: SDM
   year: 2023
-  id: sdm23
+  id: sdm
   deadline: "2022-10-07 23:59:59"
   timezone: UTC-5
   date: April 27-29, 2023
@@ -552,7 +568,7 @@
   pwclink:
 - title: KDD
   year: 2022
-  id: kdd22
+  id: kdd
   deadline: "2022-02-10 23:59:59"
   timezone: UTC-12
   date: August 14-18, 2022
@@ -567,7 +583,7 @@
   pwclink:
 - title: SIGIR
   year: 2023
-  id: sigir23
+  id: sigir
   deadline: "2023-01-31 23:59:00"
   timezone: UTC-12
   date: July 23-27, 2023
@@ -582,7 +598,7 @@
   pwclink:
 - title: RecSys
   year: 2023
-  id: recsys23
+  id: recsys
   deadline: "2023-04-21 23:59:59"
   timezone: UTC-12
   date: September 18th–22nd, 2023
@@ -597,7 +613,7 @@
   pwclink:
 - title: EMNLP
   year: 2023
-  id: emnlp23
+  id: emnlp
   deadline: "2023-06-23 23:59:59"
   timezone: UTC-12
   date: December 6-10, 2023
@@ -612,7 +628,7 @@
   pwclink:
 - title: CIKM
   year: 2023
-  id: cikm22
+  id: cikm
   deadline: "2023-06-02 23:59:59"
   timezone: UTC+1
   date: October 21-25, 2023
@@ -627,7 +643,7 @@
   pwclink:
 - title: ICDM
   year: 2023
-  id: icdm23
+  id: icdm
   deadline: "2023-07-1 23:59:59"
   timezone: Asia/Shanghai
   date: December 1-December 4, 2023
@@ -642,7 +658,7 @@
   pwclink:
 - title: AKBC
   year: 2022
-  id: akbc22
+  id: akbc
   deadline: "2022-07-10 23:59:59"
   timezone: UTC-12
   date: November 3-5, 2022
@@ -657,7 +673,7 @@
   pwclink:
 - title: WSDM
   year: 2023
-  id: wsdm23
+  id: wsdm
   deadline: "2022-08-12 23:59:59"
   timezone: UTC-12
   date: February 27 to March 3, 2023
@@ -672,7 +688,7 @@
   pwclink:
 - title: ICASSP
   year: 2024
-  id: icassp24
+  id: icassp
   deadline: "2023-09-06 23:59:59"
   timezone: UTC-12
   date: April 14-19, 2024
@@ -687,7 +703,7 @@
   pwclink:
 - title: WWW
   year: 2023
-  id: www23
+  id: www
   deadline: "2022-10-13 23:59:59"
   timezone: UTC-12
   date: May 1-5, 2023
@@ -702,7 +718,7 @@
   pwclink:
 - title: ICWSM
   year: 2023
-  id: icwsm23
+  id: icwsm
   deadline: "2023-01-15 23:59:59"
   timezone: UTC-12
   date: June 5–8, 2022
