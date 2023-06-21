@@ -1,3 +1,4 @@
+---
 - title: NLP
   year: 2023
   id: jnlp
@@ -58,7 +59,6 @@
   long: NLP若手の会シンポジウム
   paperslink:
   pwclink:
-link:
 - title: JSAI
   year: 2023
   id: jsai
