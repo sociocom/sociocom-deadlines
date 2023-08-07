@@ -452,11 +452,11 @@
 - title: LREC-COLING
   year: 2024
   id: lrec
-  deadline: "TBA"
-  timezone: Europe/Rome
+  deadline: "2023-10-13 23:59:59"
+  timezone: UTC-12
   date: May 20-25, 2024
   link: https://lrec-coling-2024.lrec-conf.org/
-  place: Turin, Italy
+  place: Torino, Italy
   sub: NLP
   abstract_deadline:
   note: "Biannual conference (even years)"
